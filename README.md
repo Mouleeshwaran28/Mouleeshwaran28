@@ -1,11 +1,22 @@
-## Hi IM Mouleeshwaran 👋
+Hi there, I'm Mouleeshwaran! 👋
 
-**Mouleeshwaran28/Mouleeshwaran28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile! ✨
+🚀 About Me
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **MERN Stack** development
+- 👯 I’m looking to collaborate on **Web Development** and **MERN Stack projects**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and Web Development**
+- 📫 How to reach me: **mouleeshwarans.24mca@kongu.edu**
 
-- 🌱 I’m currently learning MERN stack...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: mouleeshwarans.24mca@kongu.edu ...
+ 🔧 Tools & Technologies
+- **Frontend:** HTML, CSS, JavaScript, java, React.js...
+- **Backend:** Node.js, Express.js...
+- **Database:** MongoDB...
+- **Tools:** PowerBi,Tableau...
 
+ 🌐 Connect with Me
+- 📩 Email: mouleeshwarans.24mca@kongu.edu
+
+---
+
+⭐ _Thanks for visiting my profile! Feel free to connect or collaborate._ ⭐
